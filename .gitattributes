@@ -2,3 +2,4 @@
 **/.git* annex.largefiles=nothing
 *.ipynb annex.largefiles=nothing
 **.md annex.largefiles=nothing
+img/**.png annex.largefiles=nothing
